@@ -11,8 +11,10 @@ Please see the LICENSE file for the complete license.
 
 This repository is being mirrored to several version control systems in an attempt to ensure maximum avaliability.
 
-| name           | url                                                           |
-| -------------- | ------------------------------------------------------------- |
+| name             | url                                                        |
+| ---------------- | ---------------------------------------------------------- |
+| GitHub (primary) | https://github.com/uw-madison-chem-shops/mqtt-thermocouple |
+| GitLab           | https://gitlab.com/uw-madison-chem-shops/mqtt-thermocouple |
 
 ## PCB
 
