@@ -17,11 +17,11 @@ This repository is being mirrored to several version control systems in an attem
 ## PCB
 
 This PCB was designed using KiCAD version 5.
-Refer to `weather.pdf` for schematic.
+Refer to `mqtt-thermocouple.pdf` for schematic.
 PCB images generated with [tracespace](https://github.com/tracespace/tracespace) follow.
 
-<img src="" width="100%"/>
-<img src="" width="100%"/>
+<img src="./mqtt-thermocouple-.top.svg" width="100%"/>
+<img src="./mqtt-thermocouple-.bottom.svg" width="100%"/>
 
 ## Bill of Materials
 
