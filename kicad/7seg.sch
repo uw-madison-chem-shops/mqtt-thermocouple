@@ -4,8 +4,8 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 2 2
-Title "FRAM Prototype"
-Date "2021-05-03"
+Title "MQTT Thermocouple"
+Date "2021-07-06"
 Rev "A"
 Comp "University of Wisconsin-Madison"
 Comment1 "Department of Chemistry"
