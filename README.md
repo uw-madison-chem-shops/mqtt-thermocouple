@@ -42,6 +42,16 @@ Refer to the "firmware" directory in this repository for detailed instructions.
 
 ### Unprinted
 
+### B
+
+#### added
+- oshw logo
+- github link
+
+#### fixed
+- resized holes for mounting piece
+- added i2c pull up resistors
+
 ### A
 
 #### Added
