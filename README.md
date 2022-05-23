@@ -20,18 +20,11 @@ This repository is being mirrored to several version control systems in an attem
 
 This PCB was designed using KiCAD version 5.
 Refer to `mqtt-thermocouple.pdf` for schematic.
+Refer to `mqtt-thermocouple.csv` for bill of materials.
 PCB images generated with [tracespace](https://github.com/tracespace/tracespace) follow.
 
 <img src="./mqtt-thermocouple-.top.svg" width="100%"/>
 <img src="./mqtt-thermocouple-.bottom.svg" width="100%"/>
-
-## Bill of Materials
-
-| reference      | value            | manufacturer     | part number          | price  | vendors |
-| :------------- | :--------------- | :--------------- | :------------------- | :----- | :------ |
-
-All prices are extended.
-Assuming an order of 10 PCBs, the boards themselves should cost around $5 each.
 
 ## Firmware
 
